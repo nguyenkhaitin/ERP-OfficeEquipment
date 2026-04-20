@@ -1,6 +1,6 @@
 # Odoo ERP Implementation: Office Equipment Enterprise
 
-[Project Documentation PDF](#) <img width="1920" height="910" alt="Odoo ERP System Overview" src="https://github.com/user-attachments/assets/your-odoo-dashboard-image" />
+<img width="1920" height="870" alt="image" src="https://github.com/user-attachments/assets/402a6d1b-3586-460f-b43b-7eed0f09d659" />
 
 > *A complete business workflow simulation demonstrating the configuration and deployment of an Enterprise Resource Planning (ERP) system.*
 
@@ -28,17 +28,15 @@ Unlike traditional coding projects, this system required deep business acumen an
 ### Simulated Business Modules
 The project covers a complete business cycle, utilizing the following core Odoo 16 applications:
 
-#### 1. CRM & Sales (Quản trị quan hệ khách hàng & Bán hàng)
+#### 1. CRM & Sales
 * Designed a custom Sales Pipeline to track leads from initial contact to closed deals.
 * Configured automated quotation generation and invoicing directly linked to inventory levels.
 
-<img width="1745" height="667" alt="CRM Pipeline" src="https://github.com/user-attachments/assets/your-crm-pipeline-image" />
-
-#### 2. Marketing Automation (Tự động hóa Tiếp thị)
+#### 2. Marketing Automation
 * Built automated email workflows triggered by customer actions (e.g., abandoned carts, post-purchase follow-ups).
 * Implemented lead nurturing strategies to improve conversion rates.
 
-#### 3. Manufacturing & Inventory (Sản xuất & Quản lý Kho)
+#### 3. Manufacturing & Inventory
 * Simulated the production process for office equipment by defining Bill of Materials (BoM).
 * Tracked work orders and automated stock deductions based on manufacturing output.
 
